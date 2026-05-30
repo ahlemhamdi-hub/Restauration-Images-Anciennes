@@ -16,7 +16,7 @@ grâce aux modèles génératifs GAN et LLM.
 ![Interface](Capture d'écran 2026-05-29 122218.png)
 
 ## Avant / Après
-![Avant Après](Capture d'écran 2026-05-29 123937.png)
+![Avant Après](avant_apres.png)
 
 
 ## Comment lancer
