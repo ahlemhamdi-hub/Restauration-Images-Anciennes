@@ -13,7 +13,7 @@ grâce aux modèles génératifs GAN et LLM.
 | LLaVA 7B | LLM | Description textuelle |
 
 ## Interface Web
-![Interface](Capture d'écran 2026-05-29 122218.png)
+![Interface](interface.png)
 
 ## Avant / Après
 ![Avant Après](avant_apres.png)
