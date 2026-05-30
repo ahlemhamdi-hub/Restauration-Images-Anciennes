@@ -18,6 +18,8 @@ grâce aux modèles génératifs GAN et LLM.
 ## Avant / Après
 ![Avant Après](avant_apres.png)
 
+## Ouvrir dans Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahlemhamdi-hub/Restauration-Images-Anciennes/blob/main/Restauration_Colorisation.ipynb)
 
 ## Comment lancer
 1. Ouvrir dans Google Colab
